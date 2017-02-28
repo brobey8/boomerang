@@ -1,0 +1,3 @@
+rootProject.name = 'boomerang'
+
+include ':app'
